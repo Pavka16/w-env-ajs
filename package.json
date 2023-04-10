@@ -1,0 +1,11 @@
+{
+  "name": "w-env-ajs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:Pavka16/w-env-ajs.git",
+  "author": "Pavel Nizovtsev <nizo.pavka@yandex.ru>",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^8.38.0"
+  }
+}
