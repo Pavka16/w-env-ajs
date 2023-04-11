@@ -26,13 +26,17 @@ module.exports = {
         ],
       },
       {
+        test: /\.(?:jpg|jpeg|png|gif|ico)$/,
+        type: 'asset/resource',
+      },
+      {
         test: /\.css$/,
         use: [
           MiniCssExtractPlugin.loader, 'css-loader',
         ],
       },
       {
-        test: /\.(png|svg|jpg|jpeg|gif)$/i,
+        test: /\.svg$/,
         type: 'asset/resource',
       },
     ],
