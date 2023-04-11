@@ -5,3 +5,5 @@
 [Руководство по настройке GitHub Actions](https://docs.github.com/en/actions/quickstart)
 
 [CI](https://github.com/Pavka16/w-env-ajs/actions/workflows/web.yml/badge.svg)
+
+[rfhnbyrf](image.png)
